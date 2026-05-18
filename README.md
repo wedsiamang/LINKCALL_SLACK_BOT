@@ -32,7 +32,7 @@ Slackのメンションで、キーワードに紐づくURLを返すBot。
 
 ## セットアップ
 
-`.env.example`を`.env`にコピーしてトークンを設定後:
+`.env.example`にトークンを設定後:
 
 ```
 mvn spring-boot:run
